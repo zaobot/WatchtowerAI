@@ -1,8 +1,7 @@
-# Bookmarks
+# WatchtowerAI
 <dl><p>
-    </p><dt><h3 add_date="1711336497" last_modified="0" personal_toolbar_folder="true">书签栏</h3>
+    </p><dt><h3 add_date="1711336497" last_modified="0" personal_toolbar_folder="true">WatchtowerAI</h3>
     <dl><p>
-        </p><dt><h3 add_date="1711336625" last_modified="1711336669">WatchtowerAI</h3>
         <dl><p>
             </p><dt><h3 add_date="1711342200" last_modified="1711342200">chatgpt</h3>
             <dl><p>
